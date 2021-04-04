@@ -66,7 +66,7 @@ p {
 }
 
 .content {
-    width: 75%;
+    width: 64%;
     display: inline-block;
     margin-left: 20px;
 }
@@ -143,3 +143,37 @@ p {
     margin-bottom: 20px;
     font-size: 36px;
 }
+
+.aside {
+    margin-right: 20px;
+    padding: 25px;
+    float: right;
+    height: 100%;
+    width: 16%;
+}
+
+.resume {
+    margin-bottom: 32px;
+}
+
+/* .resume h2 {
+    margin-bottom: 10px;
+    text-align: center; */
+}
+
+
+.aside img{
+    display: block;
+    max-width: 255px;
+    margin: 10px auto;
+}
+
+.footer {
+    padding: 20px;
+    clear: both;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    text-align: center;
+    border-style: double;
+    border-color:#0072bb;
+}
+
